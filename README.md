@@ -22,7 +22,7 @@ dotnet run
 
 ## Como contribuir
 
-Por favor, leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para entender as práticas de colaboração e como enviar PRs, issues, etc.
+Por favor, leia o arquivo [Guia de contribuição](Guia_de_contribuição) para entender as práticas de colaboração e como enviar PRs, issues, etc.
 
 ## Licença
 
