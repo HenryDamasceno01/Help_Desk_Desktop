@@ -1,5 +1,4 @@
-# NeoCAll
-# 📌 neo call 
+# HelpDesk
 
 ## 👤 Dev do Projeto
 
@@ -24,8 +23,8 @@
 * Classificação inteligente: A IA analisa os chamados e, com base no histórico de chamados anteriores, sugere soluções às requisições antes de encaminhar ao suporte técnico adequado.
 
 ### Requisitos Não-Funcionais
-* Banco de dados em SQL Server;
-* Segurança do Sistema;
+* Banco de dados em Postgree SQL;
+* Segurança do Sistema Token e Hash;
 * Modularidade e Sistema integrado.
 
 ---
