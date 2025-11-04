@@ -22,7 +22,7 @@ dotnet run
 
 ## Como contribuir
 
-Por favor, leia o arquivo [Guia de contribuição](Guia_de_contribuição) para entender as práticas de colaboração e como enviar PRs, issues, etc.
+Por favor, leia o arquivo [Guia de contribuição](https://github.com/HenryDamasceno01/Help_Desk_Desktop/commit/f87a96e302a3f760a1d0331208b3ebe76d874b18#diff-18eb497a0f56a25699c0815616d25e2d6a26f2dfb6987155a3d96fa55702a2db) para entender as práticas de colaboração e como enviar PRs, issues, etc.
 
 ## Licença
 
