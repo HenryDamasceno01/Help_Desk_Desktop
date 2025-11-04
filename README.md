@@ -14,7 +14,7 @@
 |------------------|---------------|
 | HelpDesk | 🟡 Finalizando |
 
-# Requisitos Levantados 📝
+# Requisitos Levantados
 
 ### Requisitos Funcionais
 * Cadastro de usuário: Usufruidores podem cadastrar no sistema;
@@ -43,7 +43,7 @@ Colaborador: pode receber sugestões de soluções frequentes feitas pela IA e d
 
 ---
 
-# 🎯 Desafio do Projeto
+# Desafio do Projeto
 
 Atualmente, empresas e usuários enfrentam dificuldades na abertura e gestão de chamados de suporte técnico. Muitas vezes, problemas de hardware e software não são classificados corretamente, causando:
 
@@ -52,7 +52,7 @@ Atualmente, empresas e usuários enfrentam dificuldades na abertura e gestão de
 - Acúmulo de chamados pendentes
 - Insatisfação dos usuários
 
-O desafio deste projeto é desenvolver um sistema de NeoCall inteligente, que permita:
+O desafio deste projeto é desenvolver um sistema de abertura de chamados HelpDesk, que permita:
 
 - Registrar e acompanhar chamados de forma organizada, com papéis claros para cada tipo de usuário: Cliente, Administrador (Admin), Colaborador e IA.
 - Garantir níveis de acesso diferenciados para cada usuário, conforme representado no diagrama:
@@ -60,24 +60,6 @@ O desafio deste projeto é desenvolver um sistema de NeoCall inteligente, que pe
 - Administradores têm permissões para encerrar chamados e gerar relatórios.
 - Colaboradores recebem sugestões de soluções da IA e devolvem respostas aos chamados.
 - Integrar uma IA que sugere soluções frequentes automaticamente, agilizando a triagem e reduzindo o tempo de atendimento, conforme mostrado no fluxo entre IA e Colaborador.
-
----
-
-# 📋 Backlog do Produto
-
-Este Backlog do Produto resume as funcionalidades chave do sistema HelpDesk de Chamados, que utiliza **C#** (Backend), **Python** (Frontend/IA) e **PostgreSQL** (Banco de Dados).
-
-O desenvolvimento será guiado pela metodologia ágil, com foco na entrega contínua de valor, priorizando as funcionalidades essenciais antes dos recursos avançados de IA.
-
-## 👥 Perfis de Utilizador
-
-O sistema possui três níveis de acesso:
-
-1.  **Colaborador:** Abrir, acompanhar e resolver seus próprios chamados (autoatendimento).
-2.  **Técnico:** Gerenciar, resolver e atualizar o status dos chamados atribuídos.
-3.  **Administrador:** Configurar o sistema (filas, SLAs) e gerenciar utilizadores e relatórios.
-
----
 
 ## 🔝 Backlog do Produto
 
